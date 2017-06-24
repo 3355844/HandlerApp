@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-war" name="Hendler">
-    <output-path>$PROJECT_DIR$/out/artifacts/Hendler</output-path>
-    <root id="root" />
-  </artifact>
-</component>

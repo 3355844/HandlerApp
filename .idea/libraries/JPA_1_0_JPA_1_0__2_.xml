@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="JPA 1.0-JPA 1.0 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javaee.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-4.3.9.RELEASE.jar!/" />
+    </SOURCES>
+  </library>
+</component>
